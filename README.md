@@ -1,6 +1,5 @@
 ## Python Scripts 
-- Welcome to the small python-scripts which are useful in day to days life
-
+Welcome to the small python-scripts which are useful in day to days life. The Scripts are created with Jupyter(ipython).
 
 ### Name of Scripts
 - Text To Json
