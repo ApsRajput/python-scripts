@@ -8,6 +8,7 @@ Welcome to the small python-scripts which are useful in day to days life. The Sc
 - Tweepy : Working with Twitter API using Tweepy
 - coronaUpdate_india : Live update of COVID-19 cases in india, scrapping data from Ministry of Health and Family Welfare, Government of India Website.
 - ImageResize : Resizes all the images in the folder by given size
+- NGO Darpan Scrapper : Scrapes data from NGO Darpan Wesbite
 
 ### If you got some idea Suggest me
 
